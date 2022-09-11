@@ -13,3 +13,5 @@ To make this upload scripte work just follow these setps:
 4. On the ```Settings``` tab generate an Access Token. Place the Access Token in the ```.env``` file. 
 
 5. Test the upload script. 
+
+This cose sample uses a ```.env``` files as described on the [php-env](https://github.com/codeadamca/php-env) repo. 
