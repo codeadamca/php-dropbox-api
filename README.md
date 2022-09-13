@@ -1,4 +1,4 @@
-# php-dropbox-api
+# Uploading a File to Dropbox Using PHP
 
 A basic example of uploading a file to your Dropbox account using vanilla PHP and a generated access token.
 
@@ -15,3 +15,13 @@ To make this upload scripte work just follow these setps:
 5. Test the upload script. 
 
 This cose sample uses a ```.env``` files as described on the [php-env](https://github.com/codeadamca/php-env) repo. 
+
+## Tutorial Requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [PHP](https://www.php.net/)
+* [Dropbox](https://www.dropbox.com/)
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
