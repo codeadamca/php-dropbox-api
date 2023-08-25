@@ -16,7 +16,9 @@ To make this upload scripte work just follow these setps:
 
 This cose sample uses a ```.env``` files as described on the [php-env](https://github.com/codeadamca/php-env) repo. 
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [PHP](https://www.php.net/)
