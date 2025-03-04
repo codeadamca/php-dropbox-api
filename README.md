@@ -12,7 +12,10 @@ To make this upload scripte work just follow these setps:
 
 4. On the ```Settings``` tab generate an Access Token. Place the Access Token in the ```.env``` file. 
 
-5. Test the upload script. 
+5. Test the upload script.
+
+> [!Note]
+> The root folder ID must be kept current. If the upload is not working use the `/get_authenticated_admin` to retrieve an updated folder ID.
 
 This cose sample uses a ```.env``` files as described on the [php-env](https://github.com/codeadamca/php-env) repo. 
 
